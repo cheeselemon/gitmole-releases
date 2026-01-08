@@ -1,0 +1,15 @@
+{
+  "version": "0.2.8",
+  "notes": "Release 0.2.8",
+  "pub_date": "2026-01-08T08:06:48Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/cheeselemon/gitmole/releases/download/v0.2.8/GitMole_0.2.8_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://github.com/cheeselemon/gitmole/releases/download/v0.2.8/GitMole_0.2.8_x64.app.tar.gz"
+    }
+  }
+}
