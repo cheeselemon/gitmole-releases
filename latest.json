@@ -1,15 +1,15 @@
 {
-  "version": "0.2.8",
-  "notes": "Release 0.2.8",
-  "pub_date": "2026-01-08T08:06:48Z",
+  "version": "0.2.9",
+  "notes": "Release 0.2.9",
+  "pub_date": "2026-01-08T08:36:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://github.com/cheeselemon/gitmole/releases/download/v0.2.8/GitMole_0.2.8_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUUQ5ZklYazFNNlRMempQQmtyWTFsby9kVGJtMWg0dmV2ck13SGdtYUJwbkt0SzZETFdQcklGc3owUTJsdytZcmJjUHFSbnR4bU0wdkp1b1dtdEF0TlBWU0JhU1pkRHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODYxMjIxCWZpbGU6R2l0TW9sZS5hcHAudGFyLmd6CnlMaDkyeUZsUGlxc3dLL1UxbTJXLzBFb0VWMzI0R0V4ME5MVjR2SUFTWFdRV012SmpwKyt5UmQ4QnZ3WThTNVdBc0JlSmMrVGp3TDVtd2kvQngwTENBPT0K",
+      "url": "https://github.com/cheeselemon/gitmole-releases/releases/download/v0.2.9/GitMole_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "",
-      "url": "https://github.com/cheeselemon/gitmole/releases/download/v0.2.8/GitMole_0.2.8_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUUQ5ZklYazFNNmZnVy83WjVNTEd3RFphNkVOTjNZQmVnRFdSSWo2bjZpbXcvOVg4UjJ4bHFleTdmZjN5cHFLbzJzRlQ3aVJ1SWlCWStUakJLVHhOR1ErYk4wT3pndGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODYxMzQxCWZpbGU6R2l0TW9sZS5hcHAudGFyLmd6ClQ4ZGQwVXZ5WnJhWU5ncXJaUmpVQ2NZaXBLbzNLRXZrV3lqdzhoYXBOSnpKd1RjM2tsK1dRRkNCZkswcFprZ1pSb1JWc0Mremk1T1QvUkg5SFZneUJnPT0K",
+      "url": "https://github.com/cheeselemon/gitmole-releases/releases/download/v0.2.9/GitMole_x64.app.tar.gz"
     }
   }
 }
