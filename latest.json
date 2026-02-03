@@ -1,15 +1,15 @@
 {
-  "version": "0.2.16",
-  "notes": "Release 0.2.16",
-  "pub_date": "2026-01-14T09:44:39Z",
+  "version": "0.3.2",
+  "notes": "Release 0.3.2",
+  "pub_date": "2026-02-03T14:15:04Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUUQ5ZklYazFNNmVpM1hsVTRVV0FTbmd4dmtxVjJkSXpvMUs3TW02aTkyOWt3YmNLVUZOcHFycmFwcXFKMzlkaW1JbmhNRUhqaTBHNndrSEVUYjZsbDJScDVLdk5TS0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzgzNTY3CWZpbGU6R2l0TW9sZS5hcHAudGFyLmd6CnpjTENuK0trKzNuM1I2MmZYVUJzRVRXdG9CMjBBWFBiS1lNTUthMWNpb0pGOTM5dS9wUW4vVFZsRG01S3lsMW1yR3dYNTRjalhxZXR5OWVoUlYra0RRPT0K",
-      "url": "https://github.com/cheeselemon/gitmole-releases/releases/download/v0.2.16/GitMole_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUUQ5ZklYazFNNlVKTzZyYVVGNE9tVUpkNWZFNC9iUmMybmZUbFZJRnM0d1h1RERtSFd3NjUwUnp2TlBmMHJkUmJ0UytMYWlndEVHeTc3Z0lZL016cU8yczM5c3lHNGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTI3Nzc5CWZpbGU6R2l0TW9sZS5hcHAudGFyLmd6CmRraVROL3NXbk0vQnMxUVJJMUF4OEtFWG5NZHZlWE1rNnlweDdCTkRsajFUcWNpbTJkTlRFbTgyUVZKelFWV2VZVFNFdlRaVVlnTzQ1YUJTVmo2Q0JRPT0K",
+      "url": "https://github.com/cheeselemon/gitmole-releases/releases/download/v0.3.2/GitMole_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUUQ5ZklYazFNNlZEWGdBNzgvZjE0bmVQZTZYcC95anA0anVGV3FlUEZzb093cmFTMFNnSG5obHZqNnlBd2QyZ2hTc1pyNE9kR2VPd2dBamF5TVQyL3ZVY0pYT0pQOEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MzgzODU3CWZpbGU6R2l0TW9sZS5hcHAudGFyLmd6CjZocnBiZ0JKM0dFWXFaSzA4UWhDVkpJRHM2S2x1VEhsTHlBaXRwUjBUZGJoUmZLelhZczRpZ0NGRHJaK2Q2cGVWSGdReSt4bS92MXFYb2ZVcXIzaEJRPT0K",
-      "url": "https://github.com/cheeselemon/gitmole-releases/releases/download/v0.2.16/GitMole_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUUQ5ZklYazFNNmNmYWQxQ0syMEVCemtZZDZtVXlZRGk4em5CQm41b1FWaEkrTUlEMC9kenVLTVowNkRUbnlKOGFoQzhITWlrZ09vcU5xRklsbTRxQytrRkEwM2J4N0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTI4MDE1CWZpbGU6R2l0TW9sZS5hcHAudGFyLmd6CmpVbDYyV2ZMZmZ5ayswNHZ2QnNJalBhZXBMdndxMDU2ckpvclpZV3FQMmRYam9VWGNCU2NUeDRBcVlxRGRuQnJURDRpTm1LVVNLR0FRT0xrWkFyV0NRPT0K",
+      "url": "https://github.com/cheeselemon/gitmole-releases/releases/download/v0.3.2/GitMole_x64.app.tar.gz"
     }
   }
 }
